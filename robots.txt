@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://valiente-engineering.github.io/web/sitemap.xml
